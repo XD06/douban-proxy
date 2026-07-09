@@ -1,4 +1,7 @@
 {
+  "functions": {
+    "api/proxy.js": { "regions": ["hkg1"] }
+  },
   "rewrites": [
     { "source": "/cover", "destination": "/cover.jpg" }
   ]
